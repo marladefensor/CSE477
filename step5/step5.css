@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+html, body, header, footer, hgroup, nav, article, section, figure,
+figcaption, h1, h2, h3, ul, li, body, div, p, img {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+    line-height: 1.5em;
+}
+
+
+body{
+    padding: 1em;
+}
+
+input[type="submit"] {
+    width: 7em;
+    font-family: "Arial", sans-serif;
+}
+
+input[type="text"]{
+    font-family: "Times New Roman", serif;
+    height: 1em;
+    font-size: 1em;
+    width: 2em;
+}
+
+form{
+    background-color: white;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: solid 1pt black;
+}
+
+h1{
+    background-color: red;
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: bold;
+    padding-left: 0.3em;
+    font-family: "Arial", sans-serif;
+}
+
+p{
+    line-height: 0.5em;
+    padding: 0.5em;
+}
+.message{
+    text-align: left;
+    padding-top: 1em;
+    font-family: "Times New Roman", serif;
+}
+
