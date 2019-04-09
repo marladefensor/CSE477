@@ -1,8 +1,0 @@
-{
-  "autoload": {
-    "psr-4": {"Wumpus\\": "lib/Wumpus"}
-  },
-  "require": {
-    "phpunit/phpunit": "^6"
-  }
-}
